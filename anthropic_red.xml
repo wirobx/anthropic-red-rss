@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 16:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 23:26:05 +0000</lastBuildDate>
     <item>
       <title>Cyber Toolkits for LLMs Large Language Models (LLMs) that are not fine-tuned for cybersecurity can succeed in multistage
                     attacks on networks with dozens of hosts when equipped with a novel toolkit.</title>
@@ -15,7 +15,7 @@
       <description>Cyber Toolkits for LLMs Large Language Models (LLMs) that are not fine-tuned for cybersecurity can succeed in multistage
                     attacks on networks with dozens of hosts when equipped with a novel toolkit.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2025/cyber-toolkits/index.html</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Project Vend We let Claude manage an automated store in our office as a small business for about a month. We
@@ -26,7 +26,7 @@
                     learned a lot about the plausible, strange, not-too-distant future in which AI models are
                     autonomously running things in the real economy.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2025/project-vend/index.html</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Cyber Evaluations of Claude 4 We partnered with Pattern Labs on a range of cybersecurity evaluations of Claude Opus 4 and
@@ -37,7 +37,7 @@
                     Claude
                     Sonnet 4, with Opus demonstrating especially notable improvement over previous models.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2025/claude-4-cyber/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Claude Does Cyber Competitions Throughout 2025, we have been quietly entering Claude in cybersecurity competitions designed
@@ -50,7 +50,7 @@
                     top
                     25% of competitors. However, it lagged behind the best human teams at the toughest challenges.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2025/cyber-competitions/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Developing Nuclear Safeguards for AI Together with the NNSA and DOE national laboratories, we have co-developed a classifier—an
@@ -65,7 +65,7 @@
                         that automatically categorizes content—that distinguishes between concerning and benign
                         nuclear-related conversations with high accuracy in preliminary testing.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2025/nuclear-safeguards/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>LLMs and Biorisk Our work at Anthropic is animated by the potential for AI to advance scientific
@@ -84,7 +84,7 @@
                     element
                     of responsible AI development.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2025/biorisk/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Building AI for Cyber Defenders We invested in improving Claude's ability to help defenders detect, analyze, and remediate
@@ -99,7 +99,7 @@
                         eclipse Opus 4.1 in discovering code vulnerabilities and other cyber skills. Adopting and
                         experimenting with AI will be key for defenders to keep pace.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2025/ai-for-cyber-defenders/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Project Fetch How could frontier AI models like Claude reach beyond computers and affect the physical world? One
@@ -110,7 +110,7 @@
                     path is through robots. We ran an experiment to see how much Claude helped Anthropic staff perform
                     complex tasks with a robot dog.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2025/project-fetch/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>AI Agents Find Smart Contract Exploits We evaluated AI agents' ability to exploit smart contracts using a new benchmark comprising
@@ -123,7 +123,7 @@
                     Claude Opus 4.5, Claude Sonnet 4.5, and GPT-5 found vulnerabilities worth a combined $4.6 million, a
                     finding that underscores the need for proactive adoption of AI for defense.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2025/smart-contracts/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Project Vend: Phase Two In June, we revealed that we'd set up a small shop in our San Francisco office run by an AI
@@ -136,7 +136,7 @@
                     The idea of an AI running a business doesn't seem as far-fetched as it once did. But the gap between
                     'capable' and 'completely robust' remains wide.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2025/project-vend-2/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Experimenting with AI to Defend Critical Infrastructure AI could help defenders of critical infrastructure identify the vulnerabilities that attackers
@@ -155,7 +155,7 @@
                     AI
                     for national security.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2026/critical-infrastructure-defense/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Finding Bugs with Claude and Property-based Testing Ensuring that programs are bug-free is one of the most challenging aspects of software
@@ -170,7 +170,7 @@
                         property-based testing. After extensive manual validation, we are in the process of reporting
                         bugs in top Python packages to their developers, several of which have already been patched.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2026/property-based-testing/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>AI Models on Realistic Cyber Ranges In a recent evaluation of AI models’ cyber capabilities, current Claude models can now succeed
@@ -181,7 +181,7 @@
                         at multistage attacks on networks with dozens of hosts using only standard, open-source tools,
                         instead of the custom tools needed by previous generations.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2026/cyber-toolkits-update/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>LLM-discovered 0-days AI models can now find high-severity vulnerabilities at scale. This is a moment to empower
@@ -190,7 +190,7 @@
       <description>LLM-discovered 0-days AI models can now find high-severity vulnerabilities at scale. This is a moment to empower
                         defenders. We're now using Claude to find and help fix vulnerabilities in open source software.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2026/zero-days/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Partnering with Mozilla to improve Firefox’s security In a collaboration with researchers at Mozilla, Claude Opus
@@ -199,7 +199,7 @@
       <description>Partnering with Mozilla to improve Firefox’s security In a collaboration with researchers at Mozilla, Claude Opus
                         4.6 discovered 22 Firefox vulnerabilities over the course of two weeks.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2026/firefox/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Reverse engineering Claude's CVE-2026-2796 exploit This post dives deep into how Claude wrote an exploit for one of the vulnerabilities it found in
@@ -208,7 +208,7 @@
       <description>Reverse engineering Claude's CVE-2026-2796 exploit This post dives deep into how Claude wrote an exploit for one of the vulnerabilities it found in
                         Firefox.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2026/exploit/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Assessing Claude Mythos Preview’s cybersecurity capabilities Claude Mythos Preview is a new general-purpose language model that is
@@ -231,7 +231,7 @@
                         security, and why we have chosen to begin a coordinated effort to reinforce the world’s cyber
                         defenses.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2026/mythos-preview/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Coordinated Vulnerability Disclosure Dashboard A regularly updated record of vulnerabilities found by Anthropic and reported to maintainers
@@ -240,7 +240,7 @@
       <description>Coordinated Vulnerability Disclosure Dashboard A regularly updated record of vulnerabilities found by Anthropic and reported to maintainers
                         with cryptographic commitments to each finding at the time of disclosure.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2026/cvd/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Measuring LLMs' Ability to Develop Exploits On two new, challenging academic benchmarks measuring AI models’ ability to develop exploits
@@ -257,7 +257,7 @@
                         to develop exploits will drop significantly as Mythos-level capabilities become more widely
                         available.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2026/exploit-evals/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Mapping AI-enabled cyber threats: Insights from the LLM ATT&amp;CK Navigator We’ve spent the past year investigating how threat actors are weaponizing AI to conduct cyber
@@ -274,7 +274,7 @@
                         Investigation Report (DBIR), and are publishing this report to offer a longer-form analysis of
                         trends we are seeing in AI-enabled cyber operations.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2026/attack-navigator/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
     <item>
       <title>Measuring LLMs' Impact on N-day Exploits In cybersecurity, a large fraction of real-world harm comes from N-days: vulnerabilities that have
@@ -285,7 +285,7 @@
                     already been publicly disclosed, but only patched on some devices. In this post, we evaluate how
                     much large language models can accelerate and automate the process of developing N-day exploits.</description>
       <guid isPermaLink="true">https://red.anthropic.com/2026/n-days/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:30:08 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 23:26:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
